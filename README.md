@@ -1,1 +1,1 @@
-# DataAnalyst-projects-using-SQL_powerBi
+# DataAnalyst-projects-using-SQL&powerBi
