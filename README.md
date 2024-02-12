@@ -4,6 +4,8 @@ Business Demand Overview:
 -	Value of Change: Visual dashboards and improved Sales reporting or follow up or sales force
 -	Necessary Systems: Power BI, CRM System
 -	Other Relevant Info: Budgets have been delivered in Excel for 2021
+
+
 1	Sales Manager:	To get a dashboard overview of internet sales	Can follow better which customers and products sells the best	A Power BI dashboard which updates data once a day
 
 2	Sales Representative:	A detailed overview of Internet Sales per Customers	Can follow up my customers that buys the most and who we can sell ore to	A Power BI dashboard which allows me to filter data for each customer
